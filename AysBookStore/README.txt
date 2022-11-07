@@ -43,3 +43,7 @@ Error	NU1605	Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer
  AysBookStore -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.28)	AysBookStore	C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore.csproj	1	
 
 Committed everything to github  
+Date : 2022-11-07
+Solved issue of github 
+Tested the app 
+Got the desirable output 

@@ -1,0 +1,10 @@
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\bin\Debug\netcoreapp3.1\AysBooks1.DataAccess.deps.json
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\bin\Debug\netcoreapp3.1\AysBooks1.DataAccess.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\bin\Debug\netcoreapp3.1\AysBooks1.DataAccess.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.AssemblyInfo.cs
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.DataAccess\obj\Debug\netcoreapp3.1\AysBooks1.DataAccess.csproj.AssemblyReference.cache

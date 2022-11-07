@@ -1,0 +1,10 @@
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\bin\Debug\netcoreapp3.1\AysBooks1.Models.deps.json
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\bin\Debug\netcoreapp3.1\AysBooks1.Models.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\bin\Debug\netcoreapp3.1\AysBooks1.Models.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.AssemblyInfoInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.AssemblyInfo.cs
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBooks1.Models\obj\Debug\netcoreapp3.1\AysBooks1.Models.csproj.AssemblyReference.cache
