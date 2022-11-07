@@ -1,4 +1,4 @@
-﻿using AysBookStore.Models;
+﻿using AysBookStore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
