@@ -67,3 +67,19 @@ Successfull...without any errors
 Run the application ...everything is alright got the expected output without any errors 
 END TIME : 16:35PM 
 Committing everything to git hub 
+
+time: 16:37pm 
+Moving forward with the assignment 
+Added a new class file to the AysBooks1.Models project 
+Named the file Category.cs and modified it 
+Added migration through PM and successfully migrated the new file 
+Procedded with the assignment with modifying ApplicationDbContext file to update it but got the error!!! 
+Added using AysBooks1.Models to the file bt got the below mentioned error ...
+type or namespace name models could not be found 
+type or namespace category could not be found 
+Stuck here...do not know what to change
+Searching on google to get help ... :(
+COMMITTING EVERYTHING TO GIT HUB 
+
+Taking a break need to cook dinner.... will get back to this after few hours 
+END TIME: 17:33 PM 
