@@ -1,0 +1,10 @@
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\bin\Debug\netcoreapp3.1\AysBooks1.Utility.deps.json
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\bin\Debug\netcoreapp3.1\AysBooks1.Utility.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\bin\Debug\netcoreapp3.1\AysBooks1.Utility.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.csproj.AssemblyReference.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.AssemblyInfoInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.AssemblyInfo.cs
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.dll
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.pdb

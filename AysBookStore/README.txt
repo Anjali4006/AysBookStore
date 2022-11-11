@@ -53,3 +53,17 @@ Finally after so many errors and sweat and blood...hehe
 After so many errors finally managed to get desirable output......PS: I am happy :)
 Committed everything to github 
 Taking a break now ....Completing another work will get back to this tonight !!! Cyaa<3
+
+
+Date: 2022-11-11  16:23pm 
+Started part two of the assignment 
+Added new migration with command - add-migration AddDefaultIdentityMigration with default project name 
+Got errors as mentioned in the slides 
+Changed the default project name to AysBooks1.DataAccess 
+Run the same command and wwhooohoo!! MIgration successfull! (confetti in background...hihihi ;)
+20221111212448_AddDefaultIdentityMigration - New migration file created in the migrations folder in Data.Access project 
+Updated database with command - update-database in PM 
+Successfull...without any errors 
+Run the application ...everything is alright got the expected output without any errors 
+END TIME : 16:35PM 
+Committing everything to git hub 
