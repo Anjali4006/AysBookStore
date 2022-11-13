@@ -1,5 +1,5 @@
 ﻿using AysBooks1.DataAccess.Repository.IRepository;
-using AysBooks1.DataAccess.Data;
+using AysBookStore.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

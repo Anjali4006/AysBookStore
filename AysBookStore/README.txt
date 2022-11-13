@@ -94,3 +94,18 @@ Updated the Irepository.cs file with the given code in the slides
 Added a new class file in the Repository folder named Repository.cs 
 Updated the file with the provided code from the files of assignment 2 
 Updated readme with every step done and committed everything to git hub till here 
+
+
+time: 2:43 am 
+Moved further with the assignment 
+Added the given code to categoryRepository file but having some syntax errors!! 
+Tried to solved the errors but couldn't find any major ....error still shows 
+Thought of moving forward with the assignment....**
+Created a new interface in Irepository folder -ISP_Call.cs File 
+Updated it with the given code but still get the same syntax error as category . cs file 
+Updated readme file 
+Feeling sleepy now
+committing everything to github with errors unfortunately......... :(
+GoodNight..cyaa <3
+
+End time: 2:49AM 

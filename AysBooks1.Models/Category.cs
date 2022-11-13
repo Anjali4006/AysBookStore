@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AysBooks1.Models
 {
-    class Category
+    public class Category
     {
         [Key]
         public int Id { get; set; }
