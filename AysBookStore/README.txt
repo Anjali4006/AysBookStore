@@ -83,3 +83,14 @@ COMMITTING EVERYTHING TO GIT HUB
 
 Taking a break need to cook dinner.... will get back to this after few hours 
 END TIME: 17:33 PM 
+
+Date: 2022-11-13  time: 12:16 am 
+So started with the assignment further 
+Started part 2.2 
+Created a new folder named Repository in AysBooks1.DataAccess folder 
+Added another folder IRepository in Repository folder 
+Added a new interface file in the Irepository file named IRepository.cs 
+Updated the Irepository.cs file with the given code in the slides 
+Added a new class file in the Repository folder named Repository.cs 
+Updated the file with the provided code from the files of assignment 2 
+Updated readme with every step done and committed everything to git hub till here 
