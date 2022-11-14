@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AysBooks1.DataAccess",
+    "\\AysBooks1.DataAccess\\Repository",
+    "\\AysBooks1.DataAccess\\Repository\\IRepository",
+    "\\AysBookStore"
   ],
+  "SelectedNode": "\\AysBooks1.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
   "PreviewInSolutionExplorer": false
 }
