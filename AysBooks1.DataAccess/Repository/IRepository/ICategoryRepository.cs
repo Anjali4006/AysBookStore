@@ -7,6 +7,6 @@ namespace AysBooks1.DataAccess.Repository.IRepository
 {
      public interface ICategoryRepository : IRepository<Category>
     {
-        void Update(CategoryRepository category);
+        void Update(Category category);
     }
 }

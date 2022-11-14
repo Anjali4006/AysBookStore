@@ -138,5 +138,11 @@ Added the category folder in Views and added a view Index in the category folder
 Updated the file with the given code 
 Committing everything to git hub with no erros in the error list 
 
+Time: 10:05 PM 
+Worked a lot in past few hours on this assignment 
+Solved all the errors occured and run the application 
+Got the output of the page but the category page is still not found 
+Committing till here on github without any errors 
+
 
 

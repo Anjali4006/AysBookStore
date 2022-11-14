@@ -33,10 +33,12 @@ namespace AysBooks1.DataAccess.Repository
 
         }
 
+        /*
         public void Update(CategoryRepository category)
         {
             throw new NotImplementedException();
         }
+        */
     }
 
 }
