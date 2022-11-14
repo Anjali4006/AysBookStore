@@ -55,7 +55,11 @@ Committed everything to github
 Taking a break now ....Completing another work will get back to this tonight !!! Cyaa<3
 
 
+***************************************************************************************************************************************
+***************************************************************************************************************************************
+
 Date: 2022-11-11  16:23pm 
+
 Started part two of the assignment 
 Added new migration with command - add-migration AddDefaultIdentityMigration with default project name 
 Got errors as mentioned in the slides 
@@ -65,10 +69,12 @@ Run the same command and wwhooohoo!! MIgration successfull! (confetti in backgro
 Updated database with command - update-database in PM 
 Successfull...without any errors 
 Run the application ...everything is alright got the expected output without any errors 
-END TIME : 16:35PM 
 Committing everything to git hub 
 
-time: 16:37pm 
+END TIME : 16:35PM 
+
+Time: 16:37pm 
+
 Moving forward with the assignment 
 Added a new class file to the AysBooks1.Models project 
 Named the file Category.cs and modified it 
@@ -80,11 +86,12 @@ type or namespace category could not be found
 Stuck here...do not know what to change
 Searching on google to get help ... :(
 COMMITTING EVERYTHING TO GIT HUB 
-
 Taking a break need to cook dinner.... will get back to this after few hours 
+
 END TIME: 17:33 PM 
 
 Date: 2022-11-13  time: 12:16 am 
+
 So started with the assignment further 
 Started part 2.2 
 Created a new folder named Repository in AysBooks1.DataAccess folder 
@@ -95,8 +102,8 @@ Added a new class file in the Repository folder named Repository.cs
 Updated the file with the provided code from the files of assignment 2 
 Updated readme with every step done and committed everything to git hub till here 
 
-
 time: 2:43 am 
+
 Moved further with the assignment 
 Added the given code to categoryRepository file but having some syntax errors!! 
 Tried to solved the errors but couldn't find any major ....error still shows 
@@ -109,3 +116,27 @@ committing everything to github with errors unfortunately......... :(
 GoodNight..cyaa <3
 
 End time: 2:49AM 
+
+DATE: 2022-11-13
+Time: 5:30PM 
+Moving further with the assignment 
+Tried solving the syntax errors 
+Solved some erros in the class files 
+But still had some errors ...it was taking so much time so left them as it is and moved further with the assignment 
+Added another interface in Irepository folder - IUnitOfWork.cs 
+Added the code from the slide to the inyerface file .....goshh no red lines in it atleast!!!
+Added a new class file - UnitOfWork.cs in Repository folder 
+Write the code from the slides 
+Againnn red lines!!!!! 
+Ignoring it for now and moving forward with the further coding 
+DidNot committed anything till now to git hub because it has errors 
+After this updated the startup.cs file with the given line of code 
+Solved all the erros displayed
+Added MVC controller to the area/admin folder - CategoryController.cs 
+Updated the file with the given code 
+Added the category folder in Views and added a view Index in the category folder 
+Updated the file with the given code 
+Committing everything to git hub with no erros in the error list 
+
+
+
