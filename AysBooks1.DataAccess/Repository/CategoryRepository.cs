@@ -28,7 +28,7 @@ namespace AysBooks1.DataAccess.Repository
             if (objFromDb != null) // save changes if not null
             {
                 objFromDb.Name = category.Name;
-                _db.SaveChanges();
+                //_db.SaveChanges();
             }
 
         }

@@ -144,5 +144,16 @@ Solved all the errors occured and run the application
 Got the output of the page but the category page is still not found 
 Committing till here on github without any errors 
 
+Time: 11:23pm 
+Added a javascript file in the js folder - category.cs 
+YUpdated it as guided in the slides 
+Added a methos to call java script file in index.cshtml file 
+Added the upsert razor view file in the Areas>Views>category 
+Updated the upsert file with the given code in the assignment files 
+Added the partial views for edit and back to list buttons 
+Updated the _EditAndBackToListButtons files 
+Added another partial views for update and back to list buttons 
+upadted the _CreateAndBackToListButton file with the given code 
 
+Comitting everything till here on git hub taking a dinner break...
 

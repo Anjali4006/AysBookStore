@@ -35,11 +35,11 @@ namespace AysBookStore.Areas.Admin.Controllers
 
             if (id == null)
             {
-                //this is for create
+                //for create
                 return View(category);
             }
 
-            //this is for edit
+            //for edit
             category = _unitOfWork.Category.Get(id.GetValueOrDefault());
 
             if (category == null)
@@ -51,7 +51,7 @@ namespace AysBookStore.Areas.Admin.Controllers
         }
 
 
-        // use HTTP POST to define the post-action method
+        // API calls here
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Category category)
