@@ -1,21 +1,20 @@
 ﻿@model AysBooks1.Models.Category;
+
 @{
-    ViewData["Title"] = "Upsert";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = "Create Category";
 }
 
-<h1>Upsert</h1>
-
-<form method="post">
-    <div asp-validation-summery="ModelOnly" class="text-danger"></div>
-   
-    @if (Model.Id != null)
-    {
-       var title = "Edit Category";
-    }
+<form method="post" enctype="multipart/form-data">
     <div class="row p-3 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.Id != 0)       // if this value is null it will not display 'Edit Category', change to  0
+        {
+            // edit
+            title = "Edit Category";
+        }
         <div class="col-12 border-bottom">
-            <h2 class="text-primary">TITLE</h2>
+            <h2 class="text-primary">@title</h2>
         </div>
         <div class="col-8 pt-4">
             <div class="form-group row">
@@ -43,6 +42,6 @@
     </div>
 </form>
 
-@section Scripts{ 
-<partial name="_ValidationScriptsPartial" />
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
 }
