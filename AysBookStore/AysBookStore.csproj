@@ -19,6 +19,11 @@
   <ItemGroup>
     <ProjectReference Include="..\AysBooks1.DataAccess\AysBooks1.DataAccess.csproj" />
     <ProjectReference Include="..\AysBooks1.Models\AysBooks1.Models.csproj" />
+    <ProjectReference Include="..\AysBooks1.Utility\AysBooks1.Utility.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>

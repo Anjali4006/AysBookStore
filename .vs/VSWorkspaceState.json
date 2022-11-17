@@ -4,8 +4,10 @@
     "\\AysBooks1.DataAccess",
     "\\AysBooks1.DataAccess\\Repository",
     "\\AysBooks1.DataAccess\\Repository\\IRepository",
-    "\\AysBookStore"
+    "\\AysBookStore",
+    "\\AysBookStore\\Views",
+    "\\AysBookStore\\Views\\Shared"
   ],
-  "SelectedNode": "\\AysBooks1.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+  "SelectedNode": "\\AysBookStore\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

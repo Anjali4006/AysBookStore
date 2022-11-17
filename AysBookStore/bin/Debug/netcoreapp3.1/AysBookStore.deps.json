@@ -33,6 +33,7 @@
         "dependencies": {
           "AysBooks1.DataAccess": "1.0.0",
           "AysBooks1.Models": "1.0.0",
+          "AysBooks1.Utility": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.28",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.28",
           "Microsoft.AspNetCore.Identity.UI": "3.1.28",

@@ -164,3 +164,23 @@ Will let solve it tomorrow with professor ....Till than GOOD NIGHT..JAI SHREE KR
 Date: 2022-11-14
 END TIME: 2:15AM 
 
+Date : 17-11-2022 
+Time: 11:56 PM 
+Cleaned the application builded it again 
+No errors showing on the list 
+Revied the slides again 
+matched the steps properly 
+Found the error for showing the category page finallyy!!!!!
+Did some mistake in part one....not created the Area in the last part and that was the reason for not showing the category page 
+Reviewd the slides properly made amends in the application 
+Delete the area folder I created in part two 
+Took backup of the whole folder 
+Started creating the whole new area from part 1 and followed the slides throughly 
+And weehhheee!!!! Success!!!!! (*****confetti*****)  :) 
+Got the desired output of the category page 
+Committed everything to git hub and updated readme
+Will be sleeping with a wide smile on my face and will have a peacefull beauty sleep!!<3
+
+END TIME: 12:54 AM
+
+
