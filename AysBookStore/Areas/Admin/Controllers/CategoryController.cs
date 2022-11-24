@@ -40,7 +40,7 @@ namespace AysBookStore.Areas.Admin.Controllers
             }
 
             //for edit
-            category = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
+            category = _unitOfWork.Category.Get(id.GetValueOrDefault());
 
             if (category == null)
             {
@@ -60,12 +60,12 @@ namespace AysBookStore.Areas.Admin.Controllers
             {
                 if (category.Id == 0)
                 {
-                    _unitOfWork.CoverType.Add(category);
-                    //_unitOfWork.save();
+                   _unitOfWork.Category.Add(category);
+                    _unitOfWork.Save();
                 }
                 else
                 {
-                    _unitOfWork.CoverType.Update(category);
+                   _unitOfWork.Category.Update(category);
                 }
 
                 _unitOfWork.Save();
@@ -82,7 +82,7 @@ namespace AysBookStore.Areas.Admin.Controllers
         public IActionResult GetAll()
         {
             // return NotFound();
-            var allObj = _unitOfWork.CoverType.GetAll();
+            var allObj = _unitOfWork.Category.GetAll();
             return Json(new { data = allObj });
         }
 
@@ -90,14 +90,14 @@ namespace AysBookStore.Areas.Admin.Controllers
         [HttpDelete]
         public IActionResult Delete(int id)
         {
-            var objFromDb = _unitOfWork.CoverType.Get(id);
+            var objFromDb = _unitOfWork.Category.Get(id);
 
             if (objFromDb == null)
             {
                 return Json(new { success = false, message = "Error while deleting!!" });
             }
 
-            _unitOfWork.CoverType.Remove(objFromDb);
+            _unitOfWork.Category.Remove(objFromDb);
             _unitOfWork.Save();
             return Json(new { success = true, message = "Delete Successful!!" });
         }
