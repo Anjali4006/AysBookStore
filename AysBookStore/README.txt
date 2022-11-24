@@ -183,4 +183,36 @@ Will be sleeping with a wide smile on my face and will have a peacefull beauty s
 
 END TIME: 12:54 AM
 
+Date: 2022-11-24 
+start time: 5 pm 
+Started the further steps in assignments 
+Created a new class file in models - CoverType.cs 
+Edited the code as per the category.cs file 
+Created new class and interface files in repository folder 
+CoverTypeRepository.cs 
+ICoverTypeRepository.cs
+Edited the code as per the previous files 
+Updated the code in the unitofwork and Iunitofwork files 
+Now heading towards migration>>>>>>
+Dhakk dhakkk dhakk dhakkk....heheheh ;) 
+Created migration using command - add-migration AddCoverTypeToDb 
+Woohooo!!! 
+Migration succesfull 
+***********20221124233240_AddCoverTypeToDb.cs***************
+Migration file created 
+Updated migration and its successfull. 
+
+On to the next protion 
+Added covertype to the navbar using the previous code of category 
+Added controller in the controllers folder 
+Created new folder - CobverType 
+Added a new MVC empty controller 
+CoverTypeController.cs 
+Edited the code as per the slides 
+Added a new index and upsert view in the views folder  
+Updated the files with the provided code 
+No errors till now.....!!
+Updated readme and committed everything on github 
+
+
 

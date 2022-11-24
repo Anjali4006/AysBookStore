@@ -1,11 +1,11 @@
-﻿//using AysBooks1.DataAccess.Repository.IRepository;
+﻿using AysBooks1.DataAccess.Repository.IRepository;
 using AysBooks1.Models;
 using AysBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AysBooks1.DataAccess.Repository.IRepository
+namespace AysBooks1.DataAccess.Repository
 {
     public class UnitOfWork : IUnitOfWork // make the method public toaccess the class
     {
@@ -15,11 +15,11 @@ namespace AysBooks1.DataAccess.Repository.IRepository
         {
             _db = db;
             Category = new CategoryRepository(_db);
-            //CoverType = new CoverTypeRepository(_db);
+            CoverType = new CoverTypeRepository(_db);
             SP_Call = new SP_Call(_db);
         }
         public ICategoryRepository Category { get; private set; }
-       // public ICoverTypeRepository CoverType { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
        // public IProductRepository Product { get; private set; }
 
         public ISP_Call SP_Call { get; private set; }
