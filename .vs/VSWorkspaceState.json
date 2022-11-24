@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\AysBooks1.DataAccess",
-    "\\AysBooks1.DataAccess\\Repository",
-    "\\AysBooks1.DataAccess\\Repository\\IRepository",
     "\\AysBookStore",
     "\\AysBookStore\\Views",
     "\\AysBookStore\\Views\\Shared"
   ],
-  "SelectedNode": "\\AysBookStore\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\AysBookStore\\AysBookStore.sln",
   "PreviewInSolutionExplorer": false
 }

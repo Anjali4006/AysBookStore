@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Admin\Views\CoverType\" />
     <Folder Include="Controllers\" />
   </ItemGroup>
 

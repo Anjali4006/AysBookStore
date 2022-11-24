@@ -10,15 +10,16 @@ using System.Linq;
 using System.Threading.Tasks;
 using AysBooks1.Models;
 
+
 namespace AysBookStore.Areas.Admin.Controllers
 {
     [Area("Admin")]
 
-    public class CategoryController : Controller
+    public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
 
-        public CategoryController(IUnitOfWork unitOfWork)
+        public CoverTypeController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
@@ -31,48 +32,48 @@ namespace AysBookStore.Areas.Admin.Controllers
 
         public IActionResult Upsert(int? id)        // action method for upsert
         {
-            Category category = new Category();     //using AysBooks1.Model
+            CoverType covertype = new CoverType();     //using AysBooks1.Model
 
             if (id == null)
             {
                 //for create
-                return View(category);
+                return View(covertype);
             }
 
             //for edit
-            category = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
+            covertype = _unitOfWork.CoverType.Get(id.GetValueOrDefault());
 
-            if (category == null)
+            if (covertype == null)
             {
                 return NotFound();
             }
 
-            return View(category);
+            return View(covertype);
         }
 
 
         // API calls here
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Upsert(Category category)
+        public IActionResult Upsert(CoverType covertype)
         {
             if (ModelState.IsValid)   // check all variables in the model (e.g. Name Required) to increase security
             {
-                if (category.Id == 0)
+                if (covertype.Id == 0)
                 {
-                    _unitOfWork.CoverType.Add(category);
+                    _unitOfWork.CoverType.Add(covertype);
                     //_unitOfWork.save();
                 }
                 else
                 {
-                    _unitOfWork.CoverType.Update(category);
+                    _unitOfWork.CoverType.Update(covertype);
                 }
 
                 _unitOfWork.Save();
-                return RedirectToAction(nameof(Index));     // to see all the categories
+                return RedirectToAction(nameof(Index));     // to see all types of covertypes
             }
 
-            return View(category);
+            return View(covertype);
         }
 
 
