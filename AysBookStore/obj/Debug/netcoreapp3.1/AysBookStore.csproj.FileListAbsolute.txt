@@ -447,3 +447,4 @@ C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netc
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs

@@ -264,6 +264,14 @@ Got the exception error as guided in the slide bt got the desired output
 Updated readme with everything completed 
 Committed everything to git hub 
 
+Started part 3.3 
+Added upsert view for the product 
+Created account in tiny.clouds 
+Added link of the script with my key in the upsert.cs file 
+Tested the application bt create new product , category and covertype pages do not open .....nothingg is showing at all!!! 
+Completed all the steps in the slides 
+Updated readme and committed everything in github 
+
 
 
 
