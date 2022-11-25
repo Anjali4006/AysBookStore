@@ -233,6 +233,36 @@ Created files in IRepository folder
 updated with the provided code 
 Updated readme committed everything to github 
 
+End Time: 8:30 pm 
+
+Start time: 10:15 pm 
+
+Took a dinner break and got back to the work!!! 
+WOahh!!! Got no big errors till now:) (PS: I AM LITTLE BIT HAPPY :)
+Moved further with the assignment 'Completed Part 3.1 successfully 
+Started part 3.2 
+Added the product CRUD pages 
+Added a new mvc controller for the product 
+modified the file with the provided code 
+Created a view model in the Area> views - ProductVM.cs file 
+Updated the file with the provided code 
+Installed the "MICROSOFT.ASP.NETCORE.MVC.VIEWFEATURES" package and added the necessary using statements 
+Modified the ProductController file with the provided code 
+Added a rendering using statements as per slide 
+Commented out the old upsert post method from productcontroller 
+
+Added a new Index view from the product controller file 
+modified the code of index.cshtml with respect to the category file 
+Added a new product.js file in the www.root folder
+Changed the code respect to the product and as guided in the slide 
+Added the product link to the nav bar 
+Saved everything and clean the solution file 
+Rebuilded the solution file 
+No errors!!! 
+Run the application.....Oooppsssiieee!!!!!
+Got the exception error as guided in the slide bt got the desired output
+Updated readme with everything completed 
+Committed everything to git hub 
 
 
 

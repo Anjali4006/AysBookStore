@@ -7,3 +7,4 @@ C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.csproj.CoreCompileInputs.cache
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.dll
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.pdb
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBooks1.Utility\obj\Debug\netcoreapp3.1\AysBooks1.Utility.csproj.AssemblyReference.cache

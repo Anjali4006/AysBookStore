@@ -3,9 +3,13 @@
     "",
     "\\AysBooks1.DataAccess",
     "\\AysBookStore",
+    "\\AysBookStore\\Areas",
+    "\\AysBookStore\\Areas\\Admin",
+    "\\AysBookStore\\Areas\\Admin\\Views",
+    "\\AysBookStore\\Areas\\Admin\\Views\\Category",
     "\\AysBookStore\\Views",
     "\\AysBookStore\\Views\\Shared"
   ],
-  "SelectedNode": "\\AysBookStore\\AysBookStore.sln",
+  "SelectedNode": "\\AysBookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
