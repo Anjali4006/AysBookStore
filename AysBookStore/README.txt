@@ -182,6 +182,8 @@ Committed everything to git hub and updated readme
 Will be sleeping with a wide smile on my face and will have a peacefull beauty sleep!!<3
 
 END TIME: 12:54 AM
+*********************************************************************************************************************************************************
+*********************************************************************************************************************************************************
 
 Date: 2022-11-24 
 start time: 5 pm 
@@ -225,3 +227,119 @@ Added migration using the given command
 Reviewed the tables 
 Tables added to the sql server 
 Updated readme and committed everything to git hub 
+
+Created files in repository folder 
+Created files in IRepository folder 
+updated with the provided code 
+Updated readme committed everything to github 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
