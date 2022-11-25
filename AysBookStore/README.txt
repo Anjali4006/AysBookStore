@@ -198,7 +198,9 @@ Dhakk dhakkk dhakk dhakkk....heheheh ;)
 Created migration using command - add-migration AddCoverTypeToDb 
 Woohooo!!! 
 Migration succesfull 
+
 ***********20221124233240_AddCoverTypeToDb.cs***************
+
 Migration file created 
 Updated migration and its successfull. 
 
@@ -214,5 +216,12 @@ Updated the files with the provided code
 No errors till now.....!!
 Updated readme and committed everything on github 
 
+Created product class in models folder 
+Updated the file as per the slides 
+Added migration using the given command 
 
+*********20221125004657_AddProductToDb.cs************
 
+Reviewed the tables 
+Tables added to the sql server 
+Updated readme and committed everything to git hub 

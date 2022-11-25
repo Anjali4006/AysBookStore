@@ -443,3 +443,4 @@ C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netc
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\AysBookStore.pdb
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\AysBookStore.genruntimeconfig.cache
 C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+C:\Users\hp1001\Source\Repos\Anjali4006\AysBookStore\AysBookStore\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
