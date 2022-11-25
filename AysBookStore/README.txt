@@ -272,7 +272,7 @@ Tested the application bt create new product , category and covertype pages do n
 Completed all the steps in the slides 
 Updated readme and committed everything in github 
 
-
+END TIME: 12:06 AM 
 
 
 
