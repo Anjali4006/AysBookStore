@@ -8245,20 +8245,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp1001\\.nuget\\packages\\": {}
+    "C:\\Users\\W0797971\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp1001\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj",
+      "projectUniqueName": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj",
       "projectName": "AysBooks1.Models",
-      "projectPath": "C:\\Users\\hp1001\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj",
-      "packagesPath": "C:\\Users\\hp1001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp1001\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\obj\\",
+      "projectPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj",
+      "packagesPath": "C:\\Users\\W0797971\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\hp1001\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\W0797971\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8311,7 +8318,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
