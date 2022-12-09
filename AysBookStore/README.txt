@@ -274,6 +274,27 @@ Updated readme and committed everything in github
 
 END TIME: 12:06 AM 
 
+Date: 2022-12-09
+
+Start Time: 12:14 AM 
+
+Was getting erros with create and back to list 
+Could not create new category , new product or covertype 
+Rechecked the code with the given reference repository 
+But could not find any error 
+Deleted the -CreateAndBackToListButton and _EditAndBackToListButton files and recreated it just for the reaasurance but didn't make any changes 
+DON'T KNOW WHAT WILL HAPPEN ....!!! 
+**********Have some issues with github commits********************
+getting flase commits in github everytime I open Visual Studio
+Andrew didn't allow to start project from strach and now I am stuck here with this one with errors in it.....
+Application runs normally , it shows data added through SQLsErver operator but create new link just don't works....uuggghhhhh!!!!!!!
+Committing last changes made in git hub Hoping for the best results ...tomorrow is final assesment and submission!! 
+Ending my readme here with a sad emoji....:( 
+
+END TIME : 1:36 AM 
+
+Final Project end date : 2022-12-09 
+
 
 
 

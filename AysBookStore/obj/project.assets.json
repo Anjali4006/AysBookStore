@@ -10010,27 +10010,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\W0797971\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp1001\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBookStore\\AysBookStore.csproj",
+      "projectUniqueName": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBookStore\\AysBookStore.csproj",
       "projectName": "AysBookStore",
-      "projectPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBookStore\\AysBookStore.csproj",
-      "packagesPath": "C:\\Users\\W0797971\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBookStore\\obj\\",
+      "projectPath": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBookStore\\AysBookStore.csproj",
+      "packagesPath": "C:\\Users\\hp1001\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBookStore\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\W0797971\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\hp1001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -10043,14 +10036,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.DataAccess\\AysBooks1.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.DataAccess\\AysBooks1.DataAccess.csproj"
+            "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.DataAccess\\AysBooks1.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.DataAccess\\AysBooks1.DataAccess.csproj"
             },
-            "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj": {
-              "projectPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj"
+            "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj": {
+              "projectPath": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.Models\\AysBooks1.Models.csproj"
             },
-            "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Utility\\AysBooks1.Utility.csproj": {
-              "projectPath": "C:\\Users\\W0797971\\Source\\Repos\\Anjali4006\\AysBookStore\\AysBooks1.Utility\\AysBooks1.Utility.csproj"
+            "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.Utility\\AysBooks1.Utility.csproj": {
+              "projectPath": "C:\\Users\\hp1001\\OneDrive\\Desktop\\Asp Assignment 2\\AysBookStore\\AysBookStore\\AysBooks1.Utility\\AysBooks1.Utility.csproj"
             }
           }
         }
@@ -10108,12 +10101,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.25, 3.1.25]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10122,7 +10109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
